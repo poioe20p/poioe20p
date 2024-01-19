@@ -35,7 +35,7 @@
 <hr/>
 
 ### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poioe20p)](https://github.com/poioe20p/github-readme-stats)
+![poioe20p's GitHub stats](https://github-readme-stats.vercel.app/api?username=poioe20p&show_icons=true&theme=dark)
 
 #
 
