@@ -25,7 +25,7 @@
  <hr/>
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,javascript,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=mysql,git,bash,c" /><br>
@@ -37,7 +37,7 @@
 ### 📊 Stats
 ![poioe20p's GitHub stats](https://github-readme-stats.vercel.app/api?username=poioe20p&show_icons=true&theme=dark)
 
-#
+<hr/>
 
 <details>
  <summary><h3>👨‍💻 More about me</h3></summary>
